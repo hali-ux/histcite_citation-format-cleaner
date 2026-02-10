@@ -1,4 +1,4 @@
-# histcite-textplain-format—processor（histcite使用的textplain格式清洗程序）
+# histcite-Plain Text File-format—processor（histcite使用的Plain Text File格式清洗程序）
 
 你好！👋  
 这是一个小巧实用的 Python 小工具，帮助你把从 Web of Science 导出的 textplain 文本“清洗 / 重排”为 HistCite 能识别的格式，方便直接导入 HistCite 做文献综述或学术计量学研究。
@@ -9,7 +9,7 @@ This is a small and handy Python tool that cleans and reorders Web of Science te
 ---
 
 ## 为什么会有这个工具？ / Why this tool?  
-- Web of Science 导出的 textplain 与 HistCite 期望的字段顺序和标签不完全一致。  
+- Web of Science 导出的 Plain Text File 与 HistCite 期望的字段顺序和标签不完全一致。  
 - 本工具会自动：  
   - 去掉 HistCite 不支持的字段；  
   - 补全 HistCite 需要但缺失的标签（用占位文字标注）；  
