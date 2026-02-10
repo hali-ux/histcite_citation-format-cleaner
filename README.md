@@ -1,4 +1,4 @@
-# histcite-Plain Text File-format—processor（histcite使用的Plain Text File格式清洗程序）
+# histcite_citation-format-cleaner（histcite使用的Plain Text File格式清洗程序）
 
 你好！👋  
 这是一个小巧实用的 Python 小工具，帮助你把从 Web of Science 导出的 textplain 文本“清洗 / 重排”为 HistCite 能识别的格式，方便直接导入 HistCite 做文献综述或学术计量学研究。
