@@ -85,3 +85,13 @@ Contributions, issues, and PRs are warmly welcome — whether it's CSV export, a
 Author contact: wsw123467w123467@outlook.com
 
 ---
+
+##Histcite多平台使用的可能 /The Possibility of Multi-Platform Use of Histcite
+
+本程序主要针对windows平台的histcite辅助使用，同时yangnim21029编写了MAC的histcite
+The program mainly focus on histcite on windows platform, meanwhile yangnim21029 had coded the hiscite on mac os
+“支持 macOS 13 及以上、Apple Silicon 与 Intel，可在本机导入 Web of Science 完整记录与引用文献的 TXT 导出文件、计算 LCS／GCS 并绘制引文网络，免费开源。”
+"relying on macOS 13 or upon, Apple Silicon and Intel, which can input the full records of WOS and  output the TXT of citation, calculating LCS/GCS and drawing the  citation network.Free and open source. 
+但是演示视频是采用设定好的演示文本，文本字段与当前环境下的WOS导出的文本字段有着些许差别，此程序能否直接使用，是否可以实现本程序的提前清洗，由于本人身边没有MAC设备无法进行测试，欢迎感兴趣的朋友进行测试，也欢迎给我们两个人进行反馈
+But the demo video uses preset demo text, and the text word are slightly different from the text word exported from WOS in the current environment.
+Can this program be used directly, and is it possible to perform pre-cleaning with this program? I don't have a MAC device to test it.Welcome to try it out and provide feedback to the two of us.
